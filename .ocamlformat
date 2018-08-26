@@ -1,0 +1,14 @@
+break-infix = fit-or-vertical
+doc-comments = after
+if-then-else = keyword-first
+infix-precedence = parens
+let-open = auto
+parens-tuple = always
+sequence-style = terminator
+type-decl = sparse
+wrap-comments = true
+wrap-fun-args = false
+break-cases = all
+field-space = loose
+let-and = sparse
+extension-sugar = always
